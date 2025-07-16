@@ -237,6 +237,9 @@ footer p{
     .sponsor{
         width: 100%;
     }
+    .sponsor p{
+        width: 90%;
+    }
     .company-logo{
         grid-template-columns: repeat(1, 1fr);
         
@@ -311,6 +314,9 @@ footer p{
     }
     .sponsor{
         width: 100%;
+    }
+    .sponsor p{
+        width: 90%;
     }
     .company-logo{
         grid-template-columns: repeat(2, 1fr);
